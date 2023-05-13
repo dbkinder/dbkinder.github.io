@@ -1,6 +1,6 @@
-<svg width='2em' height='2em'
+<svg width='2.5em' height='2.5em'
  xmlns='http://www.w3.org/2000/svg' version='1.1' >
- <circle cx="1em" cy="1em" r="1em" fill="rgb(204,204,204)" />
+ <circle cx="1.25em" cy="1.25em" r="1.25em" fill="rgb(204,204,204)" />
  <text text-anchor="middle" x="50%" y="50%" dy=".35em"
-  font-family="sans-serif" font-weight="bold" font-size="1.2em" fill="white">1</text>
+  font-family="sans-serif" font-weight="bold" font-size="1.5em" fill="white">1</text>
 </svg>
