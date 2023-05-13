@@ -1,7 +1,8 @@
        <svg width='128' height='128' viewBox='0 0 128 128'
        xmlns='http://www.w3.org/2000/svg' version='1.1' >
-       <circle cx="64" cy="64" r="62" fill="rgb(204,204,204)" stroke="black"
-       stroke-width="2"/>
+       <circle cx="64" cy="64" r="62" fill="rgb(204,204,204)"
+       stroke="rgb(204,204,204)"
+       stroke-width="1"/>
        <text text-anchor="middle" x="50%" y="50%" dy=".35em"
        font-family="sans-serif" font-weight="bold" font-size="90px" fill="white">2</text>
        </svg>
